@@ -159,11 +159,11 @@ function Home() {
   return (
     <div className="home">
       <div className="home-badge">
-        <SparklesIcon className="w-4 h-4" /> Premium UI Edition
+        <SparklesIcon className="w-4 h-4" /
       </div>
       <h1>Share Your Story,<br />Vibe in Real-Time</h1>
       <p>
-        Welcome to PixelWave. A high-fidelity, interactive social space where your pictures meet beautiful layout animations. Crafted with state-of-the-art visual styling.
+        Welcome to post creation. A high-fidelity, interactive social space where your pictures meet beautiful layout animations. Crafted with state-of-the-art visual styling.
       </p>
       <div className="home-buttons">
         <Link to="/feed" className="btn btn-primary">
