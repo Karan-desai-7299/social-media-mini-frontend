@@ -127,7 +127,7 @@ function Header() {
       <div className="header-container">
         <Link to="/" className="logo-link">
           <SparklesIcon className="w-6 h-6" />
-          <span>PixelWave</span>
+          <span>Image Wave</span>
         </Link>
         <nav className="nav-links">
           <Link to="/" className={`nav-link ${path === "/" ? "active" : ""}`}>
